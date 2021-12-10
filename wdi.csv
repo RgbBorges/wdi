@@ -1,0 +1,401 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Ano,Valor
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2000,3.1543951162190824
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,87.24398842108279
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,1.1659167120460863
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2000,1.732825083832507
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,2.248717434295377
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2000,78.21363714818055
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,16.40538216085999
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,0.42581973803197964
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2000,1.2345305656402639
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,0.23411603126857844
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2000,68.4994242462541
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,13.070663240229742
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,9.82362275491146
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2000,2.9668871382230275
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,0.5202847874626111
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2000,19.87739426881529
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,18.72024991214739
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,42.25733284044597
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2000,14.913835987166674
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,0.009355732325652505
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2000,93.06283289308448
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2000,0.529742057477735
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2000,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2000,6.2597131405861335
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2000,0.14771190885164817
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2001,3.3980907618688128
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,81.54321964761894
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,3.020017777344844
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2001,4.346621695666468
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,2.7442254069916108
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2001,76.25245703937138
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,18.733393249868836
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,0.33316474773945626
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2001,1.1797840438799716
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,0.225125915882316
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2001,69.41705728436118
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,12.529859513644842
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,9.509819423262963
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2001,3.311111904531165
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,0.6771840162129721
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2001,18.88212851653992
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,19.553867898751086
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,42.36253461864116
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2001,15.397494526797049
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,0.01315592696998762
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2001,93.74702771252757
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2001,0.9535338396429893
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2001,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2001,5.149082734072142
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2001,0.14747349560221545
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2002,2.6626474306493746
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,82.76424692843773
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,3.5889617584350435
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2002,4.002649918564184
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,2.9739260742150773
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2002,77.54358092667958
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,17.409035621619136
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,0.2535419704454939
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2002,1.5190150432484324
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,0.20959227742835657
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2002,69.89346472247429
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,11.207006692852767
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,10.30053955597197
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2002,3.1760747712538206
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,0.8481544696004272
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2002,19.038537656075707
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,18.24072991256162
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,43.26310676118168
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2002,15.925681875427298
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,0.020127919110503403
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2002,93.30127559890924
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2002,1.0902984938050182
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2002,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2002,5.486264892663019
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2002,0.11850075950293736
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2003,2.495752582073289
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,83.88231839029037
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,3.5982971902541316
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2003,3.6663656649439123
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,3.2812847375658385
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2003,79.55556834863707
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,14.846539718592913
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,0.2697886437560022
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2003,2.2683180208870315
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,0.1905006136317843
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2003,67.83142322885762
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,12.415090107046773
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,11.185903690171271
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2003,2.7318668115057996
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,1.0543346490749606
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2003,18.741305089639603
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,17.0356808497607
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,44.48709872168412
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2003,16.44289576607082
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,0.04101372811507468
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2003,94.10459766138518
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2003,0.30313775686708644
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2003,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2003,5.475939251366499
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2003,0.11459558569155191
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2004,2.7311699741646085
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,82.7963649784619
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,4.9719578890859015
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2004,2.9967505736179616
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,3.2357473035439135
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2004,78.17369804974082
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,16.04464166585735
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,0.33855199586839496
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2004,2.290399554890352
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,0.1786247527798931
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2004,67.69168015368624
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,13.232922655415056
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,11.195615146982927
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2004,2.4870210280544627
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,1.2495778453225261
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2004,17.19272398793425
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,18.90763034933676
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,45.42797382528323
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2004,15.561482086879844
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,0.04860711578064426
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2004,93.94471423234964
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2004,0.3943053999086872
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2004,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2004,5.547254389241688
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2004,0.11372597849997924
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2005,2.665290435274531
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,83.729372036533
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,4.667607863375952
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2005,2.445209201231661
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,3.395255475358097
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2005,79.19611784363396
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,15.877720392918759
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,0.4855894861197873
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2005,2.123124249639867
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,0.29730458242583585
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2005,66.85963647338944
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,15.07847345652101
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,10.54515018388723
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2005,2.420716098237142
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,1.5405446192025218
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2005,17.295425896196114
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,18.154377974660388
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,46.18702025633989
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2005,15.71198926783009
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,0.048151781142795266
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2005,94.63716923839624
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2005,0.5502881576501208
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2005,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2005,4.66546859184896
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2005,0.11484993080085105
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2006,2.5039526681404216
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,83.18011527721141
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,4.354015982372173
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2006,3.2799395235812727
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,3.5675363728934006
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2006,80.33949602819864
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,15.2056173965109
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,0.8311019646512121
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2006,1.9136036377415688
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,0.3871660187148852
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2006,66.68824891701043
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,15.556279271734747
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,10.256609079536409
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2006,2.429877071637563
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,1.9841454462744126
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2006,17.897803021537133
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,17.442308563034214
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,46.057462532637736
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2006,15.740165917906355
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,0.05151605097271762
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2006,94.71080442174838
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2006,1.1552674695337073
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2006,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2006,3.9967949101259315
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2006,0.11241733140390112
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2007,2.2684641253338786
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,84.02055950056948
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,3.481097255513347
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2007,2.774364423437651
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,4.194120144581452
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2007,80.95423534107911
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,14.786564649170117
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,1.0331861575542616
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2007,1.8931741519109997
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,0.47678248760584924
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2007,65.4820578389267
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,15.525709629985807
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,11.571792321898872
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2007,2.058980308731694
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,2.3383760562337064
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2007,16.689181655004592
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,17.470709957282374
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,48.02777583163196
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2007,15.792298985888086
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,0.04993097486774706
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2007,94.7700575815739
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2007,0.33320537428023034
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2007,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2007,4.344337811900192
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2007,0.10978886756238004
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2008,2.60782996844949
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,79.80616195928451
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,6.214651443527611
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2008,3.016626103781958
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,4.4602616899930245
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2008,78.7505137453006
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,16.877870664530448
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,0.9969470910839773
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2008,1.972608903188033
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,0.859573400323317
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2008,68.44469591149931
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,13.768174879619972
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,10.243706938722587
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2008,1.759522841263386
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,2.741658857435861
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2008,18.902170678648847
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,15.866533260274396
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,47.640719508566285
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2008,15.704943323148097
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,0.047571769332772226
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2008,94.26696253507568
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2008,0.47080647623073035
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2008,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2008,5.089249723112567
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2008,0.1170167384812871
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2009,2.0985967163032777
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,83.8812239740325
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,2.86020153565276
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2009,2.7797503223411946
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,5.114551800927227
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2009,78.38266989424937
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,16.571464102473687
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,1.5393556121958698
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2009,1.8878290289176949
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,1.29233409626383
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2009,66.96802143677873
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,12.33356081203355
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,12.65799049822196
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2009,2.0316100913330617
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,3.3264944369466107
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2009,16.52965269255438
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,17.5934427223005
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,47.37501830724866
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2009,16.52288532339439
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,0.050603760435131734
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2009,94.09800862994551
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2009,0.5672264651662177
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2009,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2009,5.188501509227559
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2009,0.12641046937989991
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2010,2.1983732270792737
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,78.19542603418355
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,7.072293478366247
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2010,2.815926475293023
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,6.528807841084257
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2010,77.1871941416238
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,16.94897365007753
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,1.859881006498612
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2010,1.7602194222630114
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,1.6738524026947463
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2010,67.1782980878401
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,12.565651367753844
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,11.566995025607095
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2010,2.6818022168312545
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,3.478093067705653
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2010,15.983055951264143
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,16.067988526381217
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,50.238486810357145
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2010,16.44748271429068
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,0.05260028799864108
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2010,94.26062155169727
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2010,0.8236962688195505
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2010,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2010,4.714238957638477
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2010,0.12468439263115239
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2011,2.3279430266080183
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,80.55051461475824
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,4.719260865395284
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2011,2.94476612437636
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,6.57048238199027
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2011,78.87712304359258
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,14.624130234665806
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,2.0390613027674993
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2011,1.8353358367016581
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,2.1376401980844917
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2011,66.75997826038402
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,13.362232628781168
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,10.62719164364898
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2011,3.0047387895798745
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,3.954730227744813
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2011,15.542150482288243
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,15.749652659399182
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,49.30688574844658
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2011,16.423631126656097
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,0.053371269353020556
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2011,93.80412672974388
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2011,0.7924461429407957
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2011,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2011,5.2015594662064295
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2011,0.1259746663790181
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2012,2.5916355424302964
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,75.15815454992907
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,8.461449376067634
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2012,2.902154086684617
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,7.290128550334404
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2012,75.65891205384763
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,17.308733949989687
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,1.981570924976508
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2012,1.9538462649546655
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,2.6575149877666444
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2012,71.63605506082104
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,11.08936475612373
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,7.61347011572959
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2012,2.9264974190796664
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,4.643608604789284
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2012,15.749457829466209
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,15.514447126332515
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,49.13219983297687
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2012,16.60262243141157
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,0.049283979527042124
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2012,94.63150172804055
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2012,0.47271029723866576
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2012,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2012,4.689443064888805
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2012,0.13024051343007223
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2013,3.8130191771611073
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,68.46344572541219
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,12.082381946292742
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2013,2.7053244988583356
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,8.225762393713142
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2013,75.27906857397323
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,16.731349029635798
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,1.9612192767972876
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2013,2.0530051409280894
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,3.5648783506208974
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2013,72.52273811203138
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,12.388660500171293
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,5.241437102418906
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2013,2.8740033183537204
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,4.960653326078633
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2013,15.221697653814479
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,17.12867664092573
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,50.1115272568077
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2013,16.31144045560232
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,0.045953579320511084
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2013,93.74387816360706
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2013,0.45775537931688204
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2013,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2013,5.571266074757497
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2013,0.15126860248349078
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2014,4.529578380464945
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,63.22498395837813
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,13.7263798757642
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2014,2.603567927591759
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,9.857089888953038
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2014,72.63390780912307
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,18.55249397916779
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,2.021005181136814
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2014,2.339286360399206
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,4.056659803785733
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2014,74.49218586947953
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,11.080157256574646
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,4.63653355306791
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2014,2.7906394307101743
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,5.173682558774104
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2014,14.787924313750962
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,16.498310793319984
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,50.21899912739226
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2014,17.015097902446787
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,0.0699404047506761
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2014,93.10180341602832
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2014,0.39082698991065096
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2014,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2014,5.529299998797455
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2014,0.9023092864501284
+Brazil,BRA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2015,4.7224113387386275
+Brazil,BRA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,61.848493600984774
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,13.66624717184846
+Brazil,BRA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2015,
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,12.11841444712646
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2015,70.3094269525225
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,19.069812965357887
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,2.4870306381175866
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2015,
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,4.857004208305114
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2015,75.30939896052361
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,9.982039097500802
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,4.923196172968408
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2015,
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,5.361011247979037
+Russian Federation,RUS,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2015,14.821658316308865
+Russian Federation,RUS,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,15.76476859076803
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,49.712609431290424
+Russian Federation,RUS,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2015,
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,0.0910265638035215
+South Africa,ZAF,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2015,92.71123792231373
+South Africa,ZAF,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2015,0.32463847999481227
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2015,0.0
+South Africa,ZAF,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2015,
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2015,1.9304033460865053
